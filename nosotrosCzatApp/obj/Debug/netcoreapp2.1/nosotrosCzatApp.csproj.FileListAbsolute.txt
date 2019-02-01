@@ -1,0 +1,14 @@
+/Users/andela/Desktop/nosotros-czat/nosotrosCzatApp/bin/Debug/netcoreapp2.1/nosotrosCzatApp.deps.json
+/Users/andela/Desktop/nosotros-czat/nosotrosCzatApp/bin/Debug/netcoreapp2.1/nosotrosCzatApp.runtimeconfig.json
+/Users/andela/Desktop/nosotros-czat/nosotrosCzatApp/bin/Debug/netcoreapp2.1/nosotrosCzatApp.runtimeconfig.dev.json
+/Users/andela/Desktop/nosotros-czat/nosotrosCzatApp/bin/Debug/netcoreapp2.1/nosotrosCzatApp.dll
+/Users/andela/Desktop/nosotros-czat/nosotrosCzatApp/bin/Debug/netcoreapp2.1/nosotrosCzatApp.pdb
+/Users/andela/Desktop/nosotros-czat/nosotrosCzatApp/obj/Debug/netcoreapp2.1/nosotrosCzatApp.csprojAssemblyReference.cache
+/Users/andela/Desktop/nosotros-czat/nosotrosCzatApp/obj/Debug/netcoreapp2.1/nosotrosCzatApp.csproj.CoreCompileInputs.cache
+/Users/andela/Desktop/nosotros-czat/nosotrosCzatApp/obj/Debug/netcoreapp2.1/nosotrosCzatApp.RazorAssemblyInfo.cache
+/Users/andela/Desktop/nosotros-czat/nosotrosCzatApp/obj/Debug/netcoreapp2.1/nosotrosCzatApp.RazorAssemblyInfo.cs
+/Users/andela/Desktop/nosotros-czat/nosotrosCzatApp/obj/Debug/netcoreapp2.1/nosotrosCzatApp.AssemblyInfoInputs.cache
+/Users/andela/Desktop/nosotros-czat/nosotrosCzatApp/obj/Debug/netcoreapp2.1/nosotrosCzatApp.AssemblyInfo.cs
+/Users/andela/Desktop/nosotros-czat/nosotrosCzatApp/obj/Debug/netcoreapp2.1/nosotrosCzatApp.RazorTargetAssemblyInfo.cache
+/Users/andela/Desktop/nosotros-czat/nosotrosCzatApp/obj/Debug/netcoreapp2.1/nosotrosCzatApp.dll
+/Users/andela/Desktop/nosotros-czat/nosotrosCzatApp/obj/Debug/netcoreapp2.1/nosotrosCzatApp.pdb
